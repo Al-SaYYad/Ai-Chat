@@ -88,7 +88,7 @@ export default function Home() {
       <div className={styles.container}>
         {messages.length === 0 ? (
           <div className={styles.desc}>
-            <h1>AI for everything</h1>
+            <h1>AI SayyadCo for everything</h1>
             <p>
               AI now has our smartest, fastest, most useful model yet, with
               thinking built in — so you get the best answer, every time.

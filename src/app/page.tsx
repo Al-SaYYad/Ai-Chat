@@ -88,10 +88,10 @@ export default function Home() {
       <div className={styles.container}>
         {messages.length === 0 ? (
           <div className={styles.desc}>
-            <h1>AI SayyadCo for everything</h1>
+            <h1>صيادكو حلول ذكية لكل احتياجاتك</h1>
             <p>
-              AI now has our smartest, fastest, most useful model yet, with
-              thinking built in — so you get the best answer, every time.
+              في صيادكو  نقدم حلول ذكاء اصطناعي مبتكرة وسريعة تلبي جميع
+              احتياجاتك، بدقة وموثوقية عالية، لتحصل على أفضل النتائج في كل مرة.
             </p>
           </div>
         ) : (

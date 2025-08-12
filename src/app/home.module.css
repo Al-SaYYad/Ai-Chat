@@ -134,6 +134,7 @@
   width: inherit;
   font-size: 18px;
   outline: 1px solid #ccc;
+  color: #007aff;
 }
 .aiInput button {
   position: absolute;
